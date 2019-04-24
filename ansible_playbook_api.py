@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # -*- coding:utf-8 -*-
 # @Time   : 2018/12/16 14:00
-# @Author : wangjun
+# @Author : 
 # @File   : ansible_playbook_api.py
 
 from collections import namedtuple
